@@ -108,8 +108,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 ## 🖼️ Captures d'Écran de la Démo (Exemples)
 
-*(Vous pouvez insérer ici vos captures d'écran si vous le souhaitez, ou les supprimer si ce README est uniquement pour le dépôt.)*
-
 **Figure 1 : Interface principale après le lancement.**
 ![aInterface Principale](/images/capture1.png)
 
@@ -122,4 +120,4 @@ La vidéo de présentation expliquant l'environnement, le code et la démo de l'
 [Lien vers la vidéo de présentation sur Google Drive](drive.google.com/video)
 
 ---
-*Ce projet a été réalisé dans le cadre du "Projet 3 - End-to-End Deep Learning".*
+*Ce projet a été réalisé dans le cadre du "Projet 3 - End-to-End Deep Learning" par Mme Ansam EL GHIOUAN et Mr Ayoub MAGHNOUJ.*
