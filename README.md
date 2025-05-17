@@ -7,7 +7,7 @@ Ce projet est une application web de démonstration pour la transcription automa
 - MAGHNOUJ Ayoub
 
 ## 📝 Encadré par :
-Pr. MAHMOUDI Abdelha
+- Pr. MAHMOUDI Abdelha
 
 ## 📖 Définitions Clés
 
