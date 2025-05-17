@@ -44,7 +44,7 @@ if model is None:
     st.stop() # Arrête l'exécution du script si le modèle n'a pas pu être chargé
 
 # --- Interface Utilisateur (UI) ---
-st.title("🎙️ Projet 3 : Système de Transcription Audio Automatique")
+st.title("🎙️ Binôme 12 - Projet 3 : Système de Transcription Audio Automatique")
 st.markdown("""
 Bienvenue ! Cette application vous permet de transcrire le contenu audio de vos fichiers.
 1.  **Uploadez un fichier audio** via la barre latérale. Formats supportés : MP3, WAV, M4A, OGG, FLAC.
@@ -65,8 +65,8 @@ transcribe_button_disabled = uploaded_file is None
 transcribe_button = st.sidebar.button(
     "2. Transcrire l'audio",
     disabled=transcribe_button_disabled,
-    type="primary", # Rend le bouton plus visible
-    use_container_width=True # Fait que le bouton prend toute la largeur de la sidebar
+    type="primary", 
+    use_container_width=True # Utiliser le conteneur pour un bouton plus large
 )
 
 if uploaded_file is not None:
@@ -80,10 +80,12 @@ else:
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Ressources")
+st.sidebar.markdown("- [Github repo](https://github.com/Ayyyyoub/gr12-projet3-transcription-audio)")
 st.sidebar.markdown("- [Documentation Streamlit](https://docs.streamlit.io)")
 st.sidebar.markdown("- [OpenAI Whisper sur GitHub](https://github.com/openai/whisper)")
 st.sidebar.markdown("---")
-st.sidebar.caption("Application réalisée pour le Projet 3.")
+st.sidebar.caption("Application réalisée pour le Projet 3")
+st.sidebar.caption("par Ansam EL GHIOUAN et Ayoub MAGHNOUJ.")
 
 
 # --- Logique de Transcription et Affichage des Résultats ---

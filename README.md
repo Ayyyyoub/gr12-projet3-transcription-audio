@@ -1,5 +1,15 @@
 # Projet 3 : Système de Transcription Audio Automatisée avec Whisper et Streamlit
 
+## 📝 Projet réalisé par : (Binôme_12)
+- ELGHIOUAN Ansam
+- MAGHNOUJ Ayoub
+
+## 📝 Encadré par :
+Pr. MAHMOUDI Abdelhak
+
+## 🔹 Description du projet
+Ce projet est une application web de démonstration pour la transcription automatique de fichiers audio en texte. Elle utilise le puissant modèle **OpenAI Whisper** pour la reconnaissance vocale et une interface utilisateur interactive construite avec **Streamlit**. Ce document détaille son fonctionnement, son installation et son utilisation.
+
 Ce projet est une application web de démonstration pour la transcription automatique de fichiers audio en texte. Elle utilise le puissant modèle **OpenAI Whisper** pour la reconnaissance vocale et une interface utilisateur interactive construite avec **Streamlit**. Ce document détaille son fonctionnement, son installation et son utilisation.
 
 ## 🌟 Fonctionnalités Principales
