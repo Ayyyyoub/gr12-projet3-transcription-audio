@@ -9,6 +9,9 @@ Ce projet est une application web de démonstration pour la transcription automa
 ## 📝 Encadré par :
 - Pr. MAHMOUDI Abdelha
 
+## 🔗 Lien de la demo sur Streamlit
+- https://gr12-projet3-transcription-audio.streamlit.app/
+
 ## 📖 Définitions Clés
 
 *   **Transcription Audio (Speech-to-Text) :** Processus de conversion de la parole contenue dans un signal audio en une séquence de mots écrits.
@@ -104,15 +107,16 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 -   `app.py`: Script principal contenant le code de l'application Streamlit et la logique de transcription.
 -   `requirements.txt`: Liste les bibliothèques Python nécessaires au fonctionnement du projet.
 -   `packages.txt`: ffmpeg.
+-   `screenshots/`: Capture d'écran du projet.
 -   `README.md`: Ce fichier de documentation.
 
 ## 🖼️ Captures d'Écran de la Démo (Exemples)
 
 **Figure 1 : Interface principale après le lancement.**
-![aInterface Principale](/images/capture1.png)
+![aInterface Principale](/screenshots/capture1.png)
 
 **Figure 2 : Résultat de la transcription affiché.**
-![ésultat Transcription](/images/capture2.png)
+![ésultat Transcription](/screenshots/capture2.png)
 
 ## 📹 Vidéo de Présentation
 
