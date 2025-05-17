@@ -128,7 +128,7 @@ with col2: # Colonne de droite pour les contrôles
         # webrtc_ctx contiendra l'état du streamer, y compris l'AudioProcessor
         webrtc_ctx = webrtc_streamer(
             key="audio-recorder",
-            mode=WebRtcMode.SEND_ONLY, # On envoie seulement l'audio du client vers le serveur
+            mode=WebRtcMode.SENDONLY, # On envoie seulement l'audio du client vers le serveur
             audio_processor_factory=AudioRecorder, # Notre classe pour traiter l'audio
             media_stream_constraints={"audio": True, "video": False}, # On ne veut que l'audio
             # sendback_audio=False # Pas besoin de renvoyer l'audio au client
@@ -208,15 +208,6 @@ with col2: # Colonne de droite pour les contrôles
         else:
             st.warning("⚠️ Veuillez d'abord fournir un audio (uploader ou enregistrer).")
 
-
-    st.sidebar.header("Informations") # Déplacé certains éléments ici pour plus de clarté
-    st.sidebar.markdown("---")
-    st.sidebar.markdown("### Ressources")
-    st.sidebar.markdown("- [Documentation Streamlit](https://docs.streamlit.io)")
-    st.sidebar.markdown("- [OpenAI Whisper sur GitHub](https://github.com/openai/whisper)")
-    st.sidebar.markdown("- [Streamlit-WebRTC](https://github.com/whitphx/streamlit-webrtc)")
-    st.sidebar.markdown("---")
-    st.sidebar.caption("Application réalisée pour le Projet 3.")
 
     st.sidebar.markdown("---")
     st.sidebar.markdown("### Ressources")
