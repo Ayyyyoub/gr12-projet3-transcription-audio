@@ -5,7 +5,7 @@ Ce projet est une application web de démonstration pour la transcription automa
 ## 📝 Projet réalisé par : (Binôme_12)
 - ELGHIOUAN Ansam
 - MAGHNOUJ Ayoub
-CC ayoub !!
+
 ## 📝 Encadré par :
 Pr. MAHMOUDI Abdelha
 
