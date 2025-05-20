@@ -13,8 +13,7 @@ Ce projet est une application web de démonstration pour la transcription automa
 - https://gr12-projet3-transcription-audio.streamlit.app/
 
 ## 📹 Vidéo de Présentation
-- La vidéo de présentation expliquant l'environnement, le code et la démo de l'application est disponible ici :
-  [Lien vers la vidéo de présentation sur Google Drive](https://drive.google.com/file/d/1qEcmRrrZWhrXIb4k2xQ2mX_7vjQAkbel/view?usp=drive_link)
+- [Lien vers la vidéo de présentation sur Google Drive](https://drive.google.com/file/d/1qEcmRrrZWhrXIb4k2xQ2mX_7vjQAkbel/view?usp=drive_link)
 
 ## 🔗 Lien de Google Drive
 - [Lien du dossier Google Drive](https://drive.google.com/drive/folders/140VLlARiowqINBj-oJ1GX2k8RJHyupDT)
