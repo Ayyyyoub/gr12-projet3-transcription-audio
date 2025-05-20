@@ -7,10 +7,18 @@ Ce projet est une application web de démonstration pour la transcription automa
 - MAGHNOUJ Ayoub
 
 ## 📝 Encadré par :
-- Pr. MAHMOUDI Abdelha
+- Pr. MAHMOUDI Abdelhak
 
 ## 🔗 Lien de la demo sur Streamlit
 - https://gr12-projet3-transcription-audio.streamlit.app/
+
+## 📹 Vidéo de Présentation
+
+La vidéo de présentation expliquant l'environnement, le code et la démo de l'application est disponible ici :
+[Lien vers la vidéo de présentation sur Google Drive](https://drive.google.com/drive/)
+
+## 🔗 Lien de Google Drive
+- [Lien du dossier Google Drive](https://drive.google.com/drive/folders/140VLlARiowqINBj-oJ1GX2k8RJHyupDT)
 
 ## 📖 Définitions Clés
 
@@ -117,11 +125,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 **Figure 2 : Résultat de la transcription affiché.**
 ![ésultat Transcription](/screenshots/capture2.png)
-
-## 📹 Vidéo de Présentation
-
-La vidéo de présentation expliquant l'environnement, le code et la démo de l'application est disponible ici :
-[Lien vers la vidéo de présentation sur Google Drive](drive.google.com/video)
 
 ---
 *Ce projet a été réalisé dans le cadre du "Projet 3 - End-to-End Deep Learning" par Mme Ansam EL GHIOUAN et Mr Ayoub MAGHNOUJ.*
